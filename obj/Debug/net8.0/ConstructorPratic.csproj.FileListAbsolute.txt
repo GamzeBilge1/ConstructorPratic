@@ -1,0 +1,15 @@
+C:\Users\Gamze\source\repos\ConstructorPratic\ConstructorPratic\bin\Debug\net8.0\ConstructorPratic.exe
+C:\Users\Gamze\source\repos\ConstructorPratic\ConstructorPratic\bin\Debug\net8.0\ConstructorPratic.deps.json
+C:\Users\Gamze\source\repos\ConstructorPratic\ConstructorPratic\bin\Debug\net8.0\ConstructorPratic.runtimeconfig.json
+C:\Users\Gamze\source\repos\ConstructorPratic\ConstructorPratic\bin\Debug\net8.0\ConstructorPratic.dll
+C:\Users\Gamze\source\repos\ConstructorPratic\ConstructorPratic\bin\Debug\net8.0\ConstructorPratic.pdb
+C:\Users\Gamze\source\repos\ConstructorPratic\ConstructorPratic\obj\Debug\net8.0\ConstructorPratic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamze\source\repos\ConstructorPratic\ConstructorPratic\obj\Debug\net8.0\ConstructorPratic.AssemblyInfoInputs.cache
+C:\Users\Gamze\source\repos\ConstructorPratic\ConstructorPratic\obj\Debug\net8.0\ConstructorPratic.AssemblyInfo.cs
+C:\Users\Gamze\source\repos\ConstructorPratic\ConstructorPratic\obj\Debug\net8.0\ConstructorPratic.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\source\repos\ConstructorPratic\ConstructorPratic\obj\Debug\net8.0\ConstructorPratic.sourcelink.json
+C:\Users\Gamze\source\repos\ConstructorPratic\ConstructorPratic\obj\Debug\net8.0\ConstructorPratic.dll
+C:\Users\Gamze\source\repos\ConstructorPratic\ConstructorPratic\obj\Debug\net8.0\refint\ConstructorPratic.dll
+C:\Users\Gamze\source\repos\ConstructorPratic\ConstructorPratic\obj\Debug\net8.0\ConstructorPratic.pdb
+C:\Users\Gamze\source\repos\ConstructorPratic\ConstructorPratic\obj\Debug\net8.0\ConstructorPratic.genruntimeconfig.cache
+C:\Users\Gamze\source\repos\ConstructorPratic\ConstructorPratic\obj\Debug\net8.0\ref\ConstructorPratic.dll
